@@ -1,5 +1,5 @@
 # scbfi
-a fast lightweight brainfuck interpreter
+a fast lightweight bf interpreter
 
 **Command:** bf (filename)
 
